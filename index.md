@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Début d'une présentation internet
 
-I'm glad you are here. I plan to talk about ...
+Voyons voir ce qu'il en retourne
